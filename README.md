@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Dhanvardini Rajendran
 =============================================================================================================================================
 
-Data Engineer | Data Analyst | Data Scientist | Product Manager
+Software Engineer | Data Engineer | Data Scientist | Product Manager
 ---------------------------------------------------------------
 
 Welcome to my GitHub space! I'm Dhanvardini Rajendran, a passionate tech enthusiast and problem solver currently pursuing a Master of Science in Information Systems at Northeastern University. This profile serves as a window into my coding journey, where I explore the intersection of data, software development, and emerging technologies. I thrive on challenges and love turning complex problems into simple, efficient solutions. My projects span across data analysis, software development, and building scalable, data-driven systems that push the boundaries of what's possible. I’m always open to engaging with like-minded developers. Feel free to dive into my projects, leave a comment, or reach out if you're looking for collaboration opportunities. Let’s learn, grow, and build something awesome together!
