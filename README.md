@@ -21,7 +21,7 @@ I’m always open to engaging with like-minded developers. Feel free to dive int
 ✈️ **Travel is my adventure**, leading me to explore the world and discover its hidden treasures.  
 📚 **Books are my escape**, taking me on journeys where every page unveils something new.  
 
-🔍 **Fun Fact**: On November 10, 2024, I listened to **514 minutes of music** on Spotify without even realizing it! I only discovered this musical marathon when my Spotify Wrapped rolled around—guess I was just lost in the rhythm! 🎶🕒
+🔍 **Fun Fact**: On November 10, 2024, I listened to **455 minutes of music** on Spotify without even realizing it! I only discovered this musical marathon when my Spotify Wrapped rolled around—guess I was just lost in the rhythm! 🎶🕒
 
 ## Socials
 
