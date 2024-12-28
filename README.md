@@ -15,6 +15,18 @@ I’m always open to engaging with like-minded developers. Feel free to dive int
 * 🌍  I'm based in Boston, MA
 * ✉️  You can contact me at [dhanvardini.r@gmail.com](mailto:dhanvardini.r@gmail.com)
 
+## My Hobbies
+
+🎵 **Music fuels my soul**, creating the soundtrack to my ideas and imagination.  
+✈️ **Travel is my adventure**, leading me to explore the world and discover its hidden treasures.  
+📚 **Books are my escape**, taking me on journeys where every page unveils something new.  
+
+🔍 **Fun Fact**: On November 10, 2024, I listened to **514 minutes of music** on Spotify without even realizing it! I only discovered this musical marathon when my Spotify Wrapped rolled around—guess I was just lost in the rhythm! 🎶🕒
+
+## Socials
+
+<p align="left"> <a href="https://www.github.com/DhanvardiniRajendran25" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> &nbsp;&nbsp;&nbsp; <a href="https://www.linkedin.com/in/dhanvardini" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+
 ![Profile Views](https://komarev.com/ghpvc/?username=DhanvardiniRajendran&color=blue&style=flat)
 
 ## Skills
@@ -36,19 +48,6 @@ I’m always open to engaging with like-minded developers. Feel free to dive int
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)  ![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)  ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)  ![Rally](https://img.shields.io/badge/Rally-CC0000?style=flat&logo=rally&logoColor=white)  ![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white)  ![Microsoft Teams](https://img.shields.io/badge/Microsoft%20Teams-6264A7?style=flat&logo=microsoftteams&logoColor=white)  ![Miro](https://img.shields.io/badge/Miro-FFD02F?style=flat&logo=miro&logoColor=black)  ![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=flat&logo=confluence&logoColor=white)  
 ##### Blockchain Technology:  
 ![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=flat&logo=web3dotjs&logoColor=white)  ![MetaMask](https://img.shields.io/badge/MetaMask-E2761B?style=flat&logo=metamask&logoColor=white)  ![Truffle](https://img.shields.io/badge/Truffle-5E4692?style=flat&logo=truffle&logoColor=white)  ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat&logo=ethereum&logoColor=white) 
-
-## My Hobbies
-
-🎵 **Music fuels my soul**, creating the soundtrack to my ideas and imagination.
-✈️ **Travel is my adventure**, leading me to explore the world and discover its hidden treasures.
-📚 **Books are my escape**, taking me on journeys where every page unveils something new. 
-
-🔍 **Fun Fact**: On November 10, 2024, I listened to **514 minutes of music** on Spotify without even realizing it! I only discovered this musical marathon when my Spotify Wrapped rolled around—guess I was just lost in the rhythm! 🎶🕒
-
-
-## Socials
-
-<p align="left"> <a href="https://www.github.com/DhanvardiniRajendran25" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> &nbsp;&nbsp;&nbsp; <a href="https://www.linkedin.com/in/dhanvardini" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
 
 ## Badges
 
