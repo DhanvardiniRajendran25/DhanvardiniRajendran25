@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) ! I am Dhanvardini Rajendran!
 =============================================================================================================================================
 
-Data Engineer | Data Analyst | Product Manager
+Data Engineer | Data Analyst | Business Analyst | Product Analyst | Product Manager
 ---------------------------------------------------------------
 
 Welcome to my GitHub space! I'm Dhanvardini Rajendran, a passionate tech enthusiast and problem solver currently pursuing a Master of Science in Information Systems at Northeastern University, Boston. 
