@@ -6,7 +6,7 @@ Data Engineer | Data Analyst | Business Analyst | Product Analyst | Product Mana
 
 Welcome to my GitHub space! I'm Dhanvardini Rajendran, a passionate tech enthusiast and problem solver currently pursuing a Master of Science in Information Systems at Northeastern University, Boston. 
 
-The GitHub profile provides a window into my coding journey, where I explore the intersection of data, software development, and emerging technologies. I thrive on challenges and love turning complex problems into simple, efficient solutions.
+The GitHub profile provides a window into my coding journey, where I explore the intersection of data, machine learning, and emerging technologies. I thrive on challenges and love turning complex problems into simple, efficient solutions.
 
 I’m always open to engaging with like-minded developers. Feel free to dive into my projects, leave a comment, or reach out if you're looking for collaboration opportunities. Let’s learn, grow, and build something awesome together!
 
